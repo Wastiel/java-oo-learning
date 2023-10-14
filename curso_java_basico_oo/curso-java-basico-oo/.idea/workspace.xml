@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1528b59b-841d-44de-b696-3736606af9ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Erros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/OlaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/helloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/helloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/introducao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introducao/introducao.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,28 +37,93 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WgFsTKSxjTGznAp7bs2hbc9muN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Erro01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula08.Erro01" />
+}</component>
+  <component name="RunManager" selected="Application.Exercicios">
+    <configuration name="CuriosidadeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula11.CuriosidadeInt" />
       <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula13.Exercicios" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeituraDadosTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula12.LeituraDadosTeclado" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Piadinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula11.Piadinha" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariaveisBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula11.VariaveisBoolean" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Erro01" />
+        <item itemvalue="Application.Exercicios" />
+        <item itemvalue="Application.LeituraDadosTeclado" />
+        <item itemvalue="Application.Piadinha" />
+        <item itemvalue="Application.CuriosidadeInt" />
+        <item itemvalue="Application.VariaveisBoolean" />
       </list>
     </recent_temporary>
   </component>
