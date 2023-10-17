@@ -1,6 +1,7 @@
 # Aula 03. Programação Básica
 
 ## Introdução a Variáveis
+[Link da aula](https://youtu.be/ELBqT_rueAQ)
 - Introdução
 	- Declaração de variaveis
 	- Como declarar variaveis no java
@@ -72,6 +73,7 @@
 	````
 
 ## Tipos Primitivos
+[Link da aula](https://youtu.be/aqiB58NpKLw)
 - Introdução
 	- Tipos Inteiros 
 	- Tipos Ponto Flutuante
@@ -188,6 +190,7 @@
 - Todos os fontes utilizados nesta aula, tão no pacote "package com.willian.cursojava.aula11;"
 
 ## Lendo dados usando a classe Scanner
+[Link da aula](https://youtu.be/Z6Y8zupCKfk)
 - Introdução
 	- Ler dados do teclado
 		- Linha inteira
@@ -248,6 +251,7 @@ Lendo dados do Teclado
 	````
 
 ## Operadores
+[Link da aula](https://youtu.be/199tKAE6sxo)
 - Introdução
 	- Operadores Aritiméticos
 	- Operadores Relacionais
@@ -295,4 +299,10 @@ Lendo dados do Teclado
 | Verdadeiro| Falso     | Falso         | Verdadeiro    | Falso     | Verdadeiro|
 | Verdadeiro| Verdadeiro| Verdadeiro    | Verdadeiro    | Falso     | Falso     |
 
+- Curto Circuito
+
+- [Exericicios a serem entreges] (https://www.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13)
+- 1. Faça um programa que mostre a mensagem "Alo mundo" na tela;
+
 ## Correção Exercícios Aula 13.
+- [Link da aula](https://youtu.be/pfI20o_lyRA) 

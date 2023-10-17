@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1528b59b-841d-44de-b696-3736606af9ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../03_programcao_basica/03_programacao_basica.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_programcao_basica/03_programacao_basica.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos2.class" beforeDir="false" />
@@ -44,20 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Exercicios">
-    <configuration name="CuriosidadeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula11.CuriosidadeInt" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.willian.cursojava.aula17" />
+      <recent name="com.willian.cursojava.aula15" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex20">
+    <configuration name="Ex15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex15" />
       <module name="curso-java-basico-oo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.willian.cursojava.aula11.*" />
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula13.Exercicios" />
+    <configuration name="Ex17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex17" />
       <module name="curso-java-basico-oo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.willian.cursojava.aula13.*" />
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeituraDadosTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula12.LeituraDadosTeclado" />
+    <configuration name="Ex18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex18" />
       <module name="curso-java-basico-oo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.willian.cursojava.aula12.*" />
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Piadinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula11.Piadinha" />
+    <configuration name="Ex19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex19" />
       <module name="curso-java-basico-oo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.willian.cursojava.aula11.*" />
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariaveisBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula11.VariaveisBoolean" />
+    <configuration name="Ex20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex20" />
       <module name="curso-java-basico-oo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.willian.cursojava.aula11.*" />
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicios" />
-        <item itemvalue="Application.LeituraDadosTeclado" />
-        <item itemvalue="Application.Piadinha" />
-        <item itemvalue="Application.CuriosidadeInt" />
-        <item itemvalue="Application.VariaveisBoolean" />
+        <item itemvalue="Application.Ex20" />
+        <item itemvalue="Application.Ex19" />
+        <item itemvalue="Application.Ex18" />
+        <item itemvalue="Application.Ex17" />
+        <item itemvalue="Application.Ex15" />
       </list>
     </recent_temporary>
   </component>
