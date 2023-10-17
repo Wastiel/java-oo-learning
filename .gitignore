@@ -1,0 +1,25 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de build
+bin/
+target/
+
+# Arquivos de configuração
+*.iml
+.idea/
+
+# Arquivos de dependências (dependendo do seu sistema de build)
+lib/
+libs/
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.swp
+*~
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
