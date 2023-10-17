@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1528b59b-841d-44de-b696-3736606af9ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Argumentos2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/Erros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/OlaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/helloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/helloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comecand_com_java/introducao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introducao/introducao.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WgFsTKSxjTGznAp7bs2hbc9muN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,20 +47,89 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Erro01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula08.Erro01" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.willian.cursojava.aula17" />
+      <recent name="com.willian.cursojava.aula15" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex20">
+    <configuration name="Ex15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex15" />
       <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex17" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex18" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex19" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula17.Ex20" />
+      <module name="curso-java-basico-oo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willian.cursojava.aula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Erro01" />
+        <item itemvalue="Application.Ex20" />
+        <item itemvalue="Application.Ex19" />
+        <item itemvalue="Application.Ex18" />
+        <item itemvalue="Application.Ex17" />
+        <item itemvalue="Application.Ex15" />
       </list>
     </recent_temporary>
   </component>
