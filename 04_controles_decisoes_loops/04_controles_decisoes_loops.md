@@ -246,10 +246,39 @@ for (i = 1; i<5; soma += i++);
 - [Link da Correção parte 4](https://www.youtube.com/watch?v=bfkocfgM7_U)
 - [Link da Correção parte 5](https://www.youtube.com/watch?v=coiYSnquB7g)
 
-
-
 - usar o do while para controle é bem interessante
 
 
 # Comandos BREAK e CONTINUE
 - [Link da Aula](https://youtu.be/rU-DCmwAtXE)
+- Introdução
+	- Comandos break e continue
+	- lables e rótulos
+- Break
+	- Saída de Loops
+	- encontoru a resposta, a ideia é sair do loop;
+
+````java
+for (int i = num; i < max; i++) {
+            if(i%7 ==0){
+                System.out.println("O valor de i é: " +i);
+                break;
+            }
+        }
+````
+
+- goto:
+	- Rótulos, pouco usado no java
+
+- Continue
+	- Complemento do break
+	- Ignora o resto do loop e vai para a próxima interação, tipo um next.
+
+````java
+for (int i = num; i < max; i++) {
+            if(i%7 ==0){
+                System.out.println("O valor de i é: " +i);
+         		continue;
+            }
+        }
+````
