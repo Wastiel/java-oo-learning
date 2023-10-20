@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1528b59b-841d-44de-b696-3736606af9ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,6 @@
       <recent name="com.willian.cursojava.aula15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteCarro">
     <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula20.Ex02" />
       <module name="curso-java-basico-oo" />
@@ -105,12 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.willian.cursojava.aula24.TesteCarro" />
-      <module name="curso-java-basico-oo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.willian.cursojava.aula24.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,7 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteCarro" />
+
         <item itemvalue="Application.Ex06JogoVelha" />
         <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
