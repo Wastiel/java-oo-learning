@@ -1,4 +1,4 @@
-package com.willian.cursojava.aula47;
+package com.willian.cursojava.aula46.labs;
 
 public class Cilindro extends Figura3D{
     private double altura;
