@@ -363,6 +363,79 @@
 - [Artigo sobre aprender ingles](https://java.mn/2014/02/23/ler-ingles/)
 
 ## Exceptions: criando sua própria exceção
-- 
+- Vídeo Aula
+- [Vídeo Aula](https://youtu.be/Xt0CpwJT5yY)
+- Aprender como criar a nossa própria exception no java
+- É de boa pratica nos projetos, criar a nossa própria exceção.
+- Temos um programa e queremos considerar somente divisões exatas, 
+- Sempre que o número for impar, vamos lançar uma exceção.
+- Programa abaixo:
+
+	````java
+			public class UsandoMinhaException {
+		    public static void main(String[] args) {
+		        int[] numeros = {4, 8, 5, 16,32,21,64,128 };
+		        int[] denominador = {2,0,4,8,0,2,3};
+
+		        for (int i = 0; i < numeros.length; i++) {
+		            try {
+		                System.out.println(numeros[1] + " / " + denominador[i] + " = " + (numeros[i] / denominador[i]));
+		            } catch (ArithmeticException | ArrayIndexOutOfBoundsException e) {
+		                System.out.println("Aconteceu um erro");
+		            }
+		        }
+		    }
+		}
+	````
+- Fizemos um ajuste para tratar numero impares na divisão, ja que estamos dividindo números inteiros por números inteiros.
+	````java
+		 public static void main(String[] args) {
+        int[] numeros = {4, 8, 5, 16,32,21,64,128 };
+        int[] denominador = {2,0,4,8,0,2,3};
+
+        for (int i = 0; i < numeros.length; i++) {
+            try {
+                if(numeros[i] %2!=0){
+                    //lançar a excpetion aqui
+                    throw new Exception("Número impar´, divisão não exata ");
+                }
+                System.out.println(numeros[1] + " / " + denominador[i] + " = " + (numeros[i] / denominador[i]));
+            } catch (ArithmeticException | ArrayIndexOutOfBoundsException e) {
+                System.out.println("Aconteceu um erro");
+            } catch (Exception e) {
+                System.out.println("Aconteceu um erro");
+                System.out.println(e.getMessage());
+
+            }
+        }
+    }
+
+	````
+- Em projetos grandes, temos diversos tipos de erros e exceção. 
+	- Idela criar a nossa própria exceção.
+- Criamos a nossa classe de erro, para tratar divisão de número impar:
+	- A classe é extendida de Exception
+	`````java
+		public class DivisaoNaoExata extends Exception{
+	    private int num;
+	    private int den;
+
+	    public DivisaoNaoExata(int num, int den){
+	        super();
+	        this.num = num;
+	        this.den = den;
+	    }
+
+	    @Override
+	    public String toString() {
+	        return "Resultado de " + num + "/" + den + "Nao é um inteiro!";
+	    }
+	}
+
+
+	``````
 
 ## Correção Exercícios Aula 52: Exceptions
+- Lista de Exercícios 
+- [Link Exercícios](https://youtu.be/tc48uwR9Qto)
+- 
