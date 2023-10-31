@@ -1,4 +1,4 @@
-package com.willian.cursojava.aula47;
+package com.willian.cursojava.aula46.labs;
 
 public class Triangulo extends Figura2D{
     private double base;
